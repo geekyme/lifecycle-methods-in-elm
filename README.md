@@ -11,3 +11,11 @@
  1. Install [create-elm-app](https://github.com/halfzebra/create-elm-app)
  
  2. `elm-app start`
+
+ ## What you will see
+
+ 1. Screen shows "Loading..."
+
+ 2. 5 seconds later, screen shows "Your Elm app is working!"
+
+ 3. Chrome console logs show "Ready to do funny stuff on: <node>"
